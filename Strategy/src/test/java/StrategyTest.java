@@ -1,4 +1,4 @@
-public class Life {
+public class StrategyTest {
     public static void main(String args[]) {
         Camera camera = new Camera();
         Gun gun = new Gun();
